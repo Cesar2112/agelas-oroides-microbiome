@@ -1,4 +1,14 @@
-# Agelas oroides Microbiome
+# The holobiont *Agelas oroides* 
+
+
+![Image1](https://www.imbe.fr/local/cache-vignettes/L400xH186/d46a112bebd61c35-0c5b6.png?1668533164)[Image1/url "https://sesam-anr.imbe.fr/"]
+
+Sponges are ancient sesile animals inhabiting almost all aquatic ecosystems in our planet. Sponges are well known to produce bioactive compounds that can be produced by sponge itself, by their associated microorngaims or by both. The concept of sponge holobiont gathers the host animal, its associated microorganisms and the biological processed occurring between this entities. Our objectif is tho describe the *Agelas oroides* holobiont by describing their cytological components and the microorganism assocaited with this specie. In the present study we  present the bioinformatic pipeline used to describe the microbial community associated to the spong *Agelas oroides*.
+
+
+
+
+, a mediterranean sponge inhabiting coraligenous formations between 12-60 m depth.
 
 
 
