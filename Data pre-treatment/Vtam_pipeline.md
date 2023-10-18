@@ -1,4 +1,3 @@
-
 ## 1. Raw Fastq treatment
 
 for data pre-treatment we follow [VTAM](https://vtam.readthedocs.io/en/latest/) pipeline
