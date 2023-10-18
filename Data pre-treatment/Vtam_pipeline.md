@@ -96,3 +96,9 @@ make_known_occurrences to count the nb of False Positives
 vtam make_known_occurrences --asvtable filter4/asvtable_optimized_variant_repl.tsv --sample_types user_input/sample_types.tsv --mock_composition user_input/mock_ses.tsv --known_occurrences filter4/known_occurrences4.tsv --missing_occurrences filter4/missing_occurrences4.tsv -v
 ~~~
 Contamination in negative controls and fals positive where eliminated from de dataset
+
+
+## Taxonomic assignation
+Starting with (asvtable_optimized_variant_repl.tsv)
+Convert to fastafile -> asvtable_optimizedFASTA
+Taxa assign with online RPD classifier (http://rdp.cme.msu.edu/classifier/class_help.jsp#conf) accesed in November 2022
