@@ -16,7 +16,7 @@
 6 specimens of *A. oroides* where collected in underwater semi-dark caves near Marseille. transported in plastic containers filled with sea water to the laboratori and placed in open system aquarium for 24hrs. On of the goals of the present study was to i) evaluate differences in microbiome composition between the body pars of the sponge: ectosome, endosome and the general body part.
 
 
-![AoroidesInternalSchema](https://gitlab.osupytheas.fr/sesam/agelas-oroides-microbiome/blob/main/AoroidesInternalSchema.JPG)
+![AoroidesInternalSchema](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/AoroidesInternalSchema.JPG)
 
 
 **Figure 2.** A. In situ picture of A. oroides.  Transversal (B) and  longitudinal (C)
@@ -27,7 +27,7 @@ Is composed of dense fibers and spicules, picture courtesy of J. Vacelet.
 
 In adittion we conduct a cells/ extracellular bacteria enrichement fractions following two centrifugation forces as explained in the following schema:
 
-![Fig3](https://gitlab.osupytheas.fr/sesam/agelas-oroides-microbiome/-/blob/main/CellsDissoAndSeparationProtocol.jpg)
+![Fig3](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/CellsDissoAndSeparationProtocol.jpg)
 
 **Figure 3.** Schema fo the proces of cells(C1) and extracellular bacteria (C2) enriched fractions.
 
