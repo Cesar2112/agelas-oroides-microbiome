@@ -25,7 +25,7 @@ The interior is lighter in color with rough consistency. The skeleton (D)
 Is composed of dense fibers and spicules, picture courtesy of J. Vacelet.
 
 
-In adittion we conduct a cells/ extracellular bacteria enrichement fractions following two centrifugation forces as explained in the following schema:
+In adittion we conduct a  Sponge cells / Extracellular bacteria enrichement fractioning following two centrifugation forces as explained in the following schema:
 
 ![Fig3](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/CellsDissoAndSeparationProtocol.jpg)
 
