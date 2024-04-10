@@ -27,7 +27,7 @@ Is composed of dense fibers and spicules, picture courtesy of J. Vacelet.
 
 In adittion we conduct a  Sponge cells / Extracellular bacteria enrichement fractioning following two centrifugation forces as explained in the following schema:
 
-![Fig3](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/CellsDissoAndSeparationProtocol.jpg)
+![Fig3](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/CellDisSepProtocolAOMS2.jpg)
 
 **Figure 3.** Schema fo the proces of cells(C1) and extracellular bacteria (C2) enriched fractions.
 
