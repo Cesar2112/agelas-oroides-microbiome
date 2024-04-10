@@ -31,16 +31,16 @@ In adittion we conduct a  Sponge cells / Extracellular bacteria enrichement frac
 
 **Figure 3.** Schema fo the proces of cells(C1) and extracellular bacteria (C2) enriched fractions.
 
-in summary metadata for each speciment consisted a series of subsamples depending body parts *(Gnl:General; Ect:ectosome;End:endosome; C1:Cellular fraction; C2:Extracellular bacterial fraction)*
+in summary metadata for each speciment consisted a series of subsamples depending body parts *(Gnl:Entire sponge; Ext:External part;Int:Internal part; C1:Cellular fraction; C2:Extracellular bacterial fraction)*
 
 Date | Site | Sample Code
 ---  | ---| --- |              
 2022_03_17        |  Tiboulen de Frioul | AO09_Gnl_C1       
 2022_03_17        |  Tiboulen de Frioul | AO09_Gnl_C2
-2022_03_17        |  Tiboulen de Frioul | AO09_Ect_C1    
-2022_03_17        |  Tiboulen de Frioul | AO09_Ect_C2  
-2022_03_17        |  Tiboulen de Frioul | AO09_End_C1  
-2022_03_17        |  Tiboulen de Frioul | AO09_End_C2  
+2022_03_17        |  Tiboulen de Frioul | AO09_Ext_C1    
+2022_03_17        |  Tiboulen de Frioul | AO09_Ext_C2  
+2022_03_17        |  Tiboulen de Frioul | AO09_Int_C1  
+2022_03_17        |  Tiboulen de Frioul | AO09_Int_C2  
 
 
 ------------------------------------
