@@ -27,7 +27,7 @@ Is composed of dense fibers and spicules, picture courtesy of J. Vacelet.
 
 In adittion we conduct a sponge cells / extracellular Prokaryote enrichement following two centrifugation forces as explained in the following schema:
 
-![Fig3](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/Cell_Dis_SepProtocol_AO_MS_FN.png)
+![Fig3](https://github.com/Cesar2112/agelas-oroides-microbiome/blob/main/Cell_Dis_SepProtocol_AO_MS_FN.jpg)
 
 **Figure 3.** Schema for the process dissociation and enrichement of cells(C1) and extracellular Prokaryote (C2) fractions.
 
